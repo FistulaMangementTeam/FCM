@@ -13,6 +13,9 @@ public class Broad_cast extends BroadcastReceiver {
             Toast.makeText(context, "boot completed successfully", Toast.LENGTH_LONG).show();
 
         }
+        if (ConnectivityManager.CONNECTIVITY_ACTION.equals(intent.getAction())){
+            Toast.makeText(context, "Connectivity changed", Toast.LENGTH_SHORT).show();
+        }
 
     }
 }

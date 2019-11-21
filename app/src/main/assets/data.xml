@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- USER DEFINED XML FILE-->
+<patients>
+    <patient>
+        <name>
+            kansiime gloria
+        </name>
+        <age>
+            27
+        </age>
+        <location>
+            kabuyanda
+        </location>
+    </patient>
+    <patient>
+        <name>
+          agaba slyvia
+        </name>
+        <age>
+            37
+        </age>
+        <location>
+            kakoto
+        </location>
+    </patient>
+    <patient>
+        <name>
+            musimenta agenes
+        </name>
+        <age>
+            32
+        </age>
+        <location>
+           kagiri
+        </location>
+    </patient>
+</patients>
